@@ -1,0 +1,6 @@
+notebooks
+Dockerfile
+README.md
+**/.DS_Store
+**/__pycache__/*
+*.ipynb_checkpoints

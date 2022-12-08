@@ -1,0 +1,2 @@
+BuildingType,PrimaryPropertyType,ZipCode,CouncilDistrictCode,Neighborhood,Latitude,Longitude,NumberofFloors,PropertyGFATotal,PropertyGFAParking,ENERGYSTARScore,SteamUse(kBtu),TotalGHGEmissions,BuildingAge
+NonResidential,Hotel,98101.0,7,DOWNTOWN,47.6122,-122.33799,12,88434,0,60.0,2003882.0,249.98,89
